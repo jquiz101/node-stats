@@ -1,0 +1,14 @@
+{
+  "name": "stats",
+  "version": "1.0.0",
+  "description": "Uses a stat package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jquiz101",
+  "license": "ISC",
+  "dependencies": {
+    "simple-statistics": "^7.7.6"
+  }
+}
